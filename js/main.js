@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["Welcome", "I'm Arya Gao", "Love Simplicity"],
+        strings: ["小站"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
